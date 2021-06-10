@@ -19,10 +19,10 @@ Deliverable 4: Create the Movie Database
 
 ## Results:
 
-![movies_query](https://ghttps://github.com/ClayMack/Movies-ETL/blob/main/movies_query.png "movies_query.")
+![movies_query](https://github.com/ClayMack/Movies-ETL/blob/main/movies_query.png "movies_query")
 
 
 
-![ratings_query.png.](https://github.com/ClayMack/Movies-ETL/blob/main/ratings_query.png "ratings_query.png.")
+![ratings_query](https://github.com/ClayMack/Movies-ETL/blob/main/ratings_query.png "ratings_query")
 
 
