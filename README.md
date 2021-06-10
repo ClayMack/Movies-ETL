@@ -2,9 +2,9 @@
 
 
 ##  Project Overview:
-Project created to make an automated pipeline that takes information from Wikipedia data, Kaggle metadata and the MovieLens rating data. Perform an ETL (Extract-Transform-Load) on the data to an existing PostgreSQL database.\
+Project created to make an automated pipeline that takes information from Wikipedia data, Kaggle metadata and the MovieLens rating data. Perform an ETL (Extract-Transform-Load) on the data to an existing PostgreSQL database.
 
-For this analysis, the following steps were taken:
+##For this analysis, the following steps were taken:
 1. write an ETL function to read three data files,
 2. extract and transform the Wikipedia data,
 3. extract and transform the Kaggle and rating data,
